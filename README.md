@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dungeon World
 
 Dungeon World is a tabletop roleplaying game by Sage LaTorra and Adem Koebel. The text this work is based off of is availible at https://github.com/SageIt/Dungeon-World
@@ -11,3 +12,9 @@ See the LICENSE file for the full details, but here's the basics: you're free to
 
 What we hope you do with it is make new stuff: make classes, adventures, moves, even whole new games.
 
+=======
+DW-Latex
+========
+
+Dungeon world typeset with latex, for a optimal Print PDF.
+>>>>>>> 2609fa3ec9e0ba8563d4749137c6bb8daea17dff
