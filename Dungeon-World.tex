@@ -1,0 +1,69 @@
+\documentclass[11pt,twoside,twocolumn]{scrbook}
+\usepackage[letterpaper]{geometry}
+\usepackage[cm]{fullpage}
+\usepackage{tabu}
+\setcounter{secnumdepth}{0}
+\setcounter{tocdepth}{0}
+\usepackage{indentfirst}
+\usepackage{hyphenat}
+\usepackage{makeidx}
+
+\makeindex
+\newcommand{\firstcol}{0.27\textwidth}
+\newcommand{\seccol}{0.08\textwidth}
+\newcommand{\thirdcol}{0.09\textwidth}
+\newcommand{\HRule}{\noindent\rule{\linewidth}{0.5mm}\\}
+
+\newcommand{\spell}[3]{\vspace{\baselineskip}\noindent\begin{tabu}{@{}p{\firstcol}@{} @{}p{\seccol} p{\thirdcol}@{}}
+\rowfont{\bfseries}
+#1 & #2 & #3 \\
+\end{tabu}}
+
+\newcommand{\monster}[2]{\vspace{\baselineskip}\noindent\begin{tabu}{@{}p{0.29\textwidth}@{} p{0.20\textwidth}@{}}
+{\Large \bfseries #1} & \nohyphens{\emph{#2}} \\
+\end{tabu}}
+
+\title{Dungeon World}
+\author{Sage LaTorra and Adam Koebel}
+\date{}
+
+\begin{document}
+\maketitle
+\tableofcontents
+
+\include{Introduction}
+\include{Playing_the_Game}
+\include{Character_Creation}
+\include{Moves}
+\include{Bard}
+\include{Cleric}
+\include{Cleric_Spells}
+\include{Druid}
+\include{Fighter}
+\include{Paladin}
+\include{Ranger}
+\include{Thief}
+\include{Wizard}
+\include{Wizard_Spells}
+\include{GM}
+\include{First_Session}
+\include{Fronts}
+\include{The_World}
+\include{Monsters}
+\include{monster_settings/Caverns}
+\include{monster_settings/Swamp}
+\include{monster_settings/Undead}
+\include{monster_settings/Woods}
+\include{monster_settings/Hordes}
+\include{monster_settings/Experiments}
+\include{monster_settings/Depths}
+\include{monster_settings/Planes}
+\include{monster_settings/Folk}
+\include{Equipment}
+\include{Advanced_Delving}
+\include{appendices/Thanks}
+\include{appendices/Teaching}
+\include{appendices/Conversion}
+\include{appendices/NPCs}
+\printindex
+\end{document}

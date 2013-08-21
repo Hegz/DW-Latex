@@ -1,0 +1,624 @@
+\contentsline {chapter}{\numberline {1}Introduction}{5}
+\contentsline {section}{Dungeon World}{5}
+\contentsline {section}{The Bard}{5}
+\contentsline {section}{The Cleric}{5}
+\contentsline {section}{The Druid}{5}
+\contentsline {section}{The Fighter}{6}
+\contentsline {section}{The Paladin}{6}
+\contentsline {section}{The Ranger}{6}
+\contentsline {section}{The Thief}{6}
+\contentsline {section}{The Wizard}{6}
+\contentsline {section}{Why?}{6}
+\contentsline {section}{How to Use This Book}{7}
+\contentsline {section}{Setting Up}{7}
+\contentsline {section}{What's Dungeon World Like to Play?}{7}
+\contentsline {chapter}{\numberline {2}Playing the Game}{9}
+\contentsline {section}{Ability Scores and Modifiers}{9}
+\contentsline {section}{Making Moves}{9}
+\contentsline {subsection}{Moves and Dice}{10}
+\contentsline {subsection}{Moves and Equipment}{10}
+\contentsline {subsection}{The Effects of Moves}{10}
+\contentsline {subsubsection}{Some Moves \dots }{10}
+\contentsline {section}{Harm and Healing}{11}
+\contentsline {subsection}{HP}{11}
+\contentsline {subsection}{Damage}{11}
+\contentsline {subsubsection}{Damage From Multiple Creatures}{12}
+\contentsline {subsubsection}{Stun Damage}{12}
+\contentsline {subsubsection}{Adding and Subtracting Damage}{12}
+\contentsline {subsubsection}{Best and Worst}{12}
+\contentsline {subsection}{Healing}{12}
+\contentsline {subsection}{Death}{12}
+\contentsline {subsubsection}{After Death}{13}
+\contentsline {subsection}{Debilities}{13}
+\contentsline {section}{Magic}{14}
+\contentsline {subsection}{Spells}{14}
+\contentsline {section}{Character Change}{14}
+\contentsline {subsection}{Level Up}{14}
+\contentsline {subsubsection}{Multiclass Moves}{15}
+\contentsline {subsubsection}{Requires and Replaces}{15}
+\contentsline {subsubsection}{Beyond 10th Level}{15}
+\contentsline {section}{Bonds}{15}
+\contentsline {subsection}{Resolving Bonds}{15}
+\contentsline {subsection}{Writing New Bonds}{15}
+\contentsline {section}{Alignment}{16}
+\contentsline {subsection}{Changing Alignment}{16}
+\contentsline {subsubsection}{Lawful}{16}
+\contentsline {subsubsection}{Good}{16}
+\contentsline {subsubsection}{Neutral}{17}
+\contentsline {subsubsection}{Chaotic}{17}
+\contentsline {subsubsection}{Evil}{17}
+\contentsline {section}{Hirelings}{17}
+\contentsline {section}{Making a Hireling}{17}
+\contentsline {subsection}{Costs}{18}
+\contentsline {subsection}{Skills}{18}
+\contentsline {subsubsection}{Adept}{18}
+\contentsline {subsubsection}{Burglar}{18}
+\contentsline {subsubsection}{Minstrel}{18}
+\contentsline {subsubsection}{ Priest}{18}
+\contentsline {subsubsection}{Protector}{18}
+\contentsline {subsubsection}{Tracker}{18}
+\contentsline {subsubsection}{Warrior}{19}
+\contentsline {section}{The Adventurer's Life}{19}
+\contentsline {subsection}{Dungeons}{19}
+\contentsline {subsection}{Monsters}{19}
+\contentsline {subsection}{Wilderness}{20}
+\contentsline {subsection}{Friends and Enemies}{20}
+\contentsline {subsection}{The World}{20}
+\contentsline {chapter}{\numberline {3}Character Creation}{21}
+\contentsline {section}{Choose a Class}{21}
+\contentsline {section}{Choose a Race}{21}
+\contentsline {section}{Choose a Name}{21}
+\contentsline {section}{Choose Look}{21}
+\contentsline {section}{Choose Stats}{21}
+\contentsline {section}{Figure Out Modifiers}{22}
+\contentsline {section}{Set Maximum HP}{22}
+\contentsline {section}{Choose Starting Moves}{22}
+\contentsline {section}{Choose Alignment}{22}
+\contentsline {section}{Choose Gear}{22}
+\contentsline {section}{Introduce Your Character}{22}
+\contentsline {section}{Choose Bonds}{23}
+\contentsline {section}{Get Ready to Play}{23}
+\contentsline {chapter}{\numberline {4}Moves}{25}
+\contentsline {section}{Basic Moves}{25}
+\contentsline {subsection}{Hack and Slash}{25}
+\contentsline {subsection}{Volley}{25}
+\contentsline {subsection}{Defy Danger}{25}
+\contentsline {subsection}{Defend}{25}
+\contentsline {subsection}{Spout Lore}{25}
+\contentsline {subsection}{Discern Realities}{25}
+\contentsline {subsection}{Parley}{26}
+\contentsline {subsection}{Aid or Interfere}{26}
+\contentsline {section}{Special Moves}{26}
+\contentsline {subsection}{Last Breath}{26}
+\contentsline {subsection}{Encumbrance}{26}
+\contentsline {subsection}{Make Camp}{26}
+\contentsline {subsection}{Take Watch}{26}
+\contentsline {subsection}{Undertake a Perilous Journey}{26}
+\contentsline {subsection}{Level Up}{26}
+\contentsline {subsection}{End of Session}{26}
+\contentsline {subsection}{Carouse}{27}
+\contentsline {subsection}{Supply}{27}
+\contentsline {subsection}{Recover}{27}
+\contentsline {subsection}{Recruit}{27}
+\contentsline {subsection}{Outstanding Warrants}{27}
+\contentsline {subsection}{Bolster}{27}
+\contentsline {chapter}{\numberline {5}The Bard}{29}
+\contentsline {section}{Names}{29}
+\contentsline {section}{Look}{29}
+\contentsline {section}{Stats}{29}
+\contentsline {section}{Starting Moves}{29}
+\contentsline {subsection}{Elf}{29}
+\contentsline {subsection}{Human}{29}
+\contentsline {subsection}{Arcane Art}{29}
+\contentsline {subsection}{Bardic Lore}{29}
+\contentsline {subsection}{Charming and Open}{30}
+\contentsline {subsection}{A Port in the Storm}{30}
+\contentsline {section}{Alignment}{30}
+\contentsline {subsection}{Good}{30}
+\contentsline {subsection}{Neutral}{30}
+\contentsline {subsection}{Chaotic}{30}
+\contentsline {section}{Gear}{30}
+\contentsline {section}{Bonds}{30}
+\contentsline {section}{Advanced Moves}{31}
+\contentsline {subsection}{Healing Song}{31}
+\contentsline {subsection}{Vicious Cacophony}{31}
+\contentsline {subsection}{It Goes To Eleven}{31}
+\contentsline {subsection}{Metal Hurlant}{31}
+\contentsline {subsection}{A Little Help From My Friends}{31}
+\contentsline {subsection}{Eldritch Tones}{31}
+\contentsline {subsection}{Duelist's Parry}{31}
+\contentsline {subsection}{Bamboozle}{31}
+\contentsline {subsection}{Multiclass Dabbler}{31}
+\contentsline {subsection}{Multiclass Initiate}{31}
+\contentsline {subsection}{Healing Chorus}{31}
+\contentsline {subsection}{Vicious Blast}{31}
+\contentsline {subsection}{Unforgettable Face}{31}
+\contentsline {subsection}{Reputation}{31}
+\contentsline {subsection}{Eldritch Chord}{31}
+\contentsline {subsection}{An Ear For Magic}{31}
+\contentsline {subsection}{Devious}{32}
+\contentsline {subsection}{Duelist's Block}{32}
+\contentsline {subsection}{Con}{32}
+\contentsline {subsection}{Multiclass Master}{32}
+\contentsline {chapter}{\numberline {6}The Cleric}{33}
+\contentsline {section}{Names}{33}
+\contentsline {section}{Look}{33}
+\contentsline {section}{Stats}{33}
+\contentsline {section}{Starting Moves}{33}
+\contentsline {subsection}{Dwarf}{33}
+\contentsline {subsection}{Human}{33}
+\contentsline {subsection}{Deity}{33}
+\contentsline {subsection}{Divine Guidance}{34}
+\contentsline {subsection}{Turn Undead}{34}
+\contentsline {subsection}{Commune}{34}
+\contentsline {subsection}{Cast a Spell}{34}
+\contentsline {section}{Alignment}{34}
+\contentsline {subsection}{Good}{34}
+\contentsline {subsection}{Lawful}{34}
+\contentsline {subsection}{Evil}{34}
+\contentsline {section}{Gear}{34}
+\contentsline {section}{Bonds}{34}
+\contentsline {section}{Advanced Moves}{35}
+\contentsline {subsection}{Chosen One}{35}
+\contentsline {subsection}{Invigorate}{35}
+\contentsline {subsection}{The Scales of Life and Death}{35}
+\contentsline {subsection}{Serenity}{35}
+\contentsline {subsection}{First Aid}{35}
+\contentsline {subsection}{Divine Intervention}{35}
+\contentsline {subsection}{Penitent}{35}
+\contentsline {subsection}{Empower}{35}
+\contentsline {subsection}{Orison for Guidance}{35}
+\contentsline {subsection}{Divine Protection}{35}
+\contentsline {subsection}{Devoted Healer}{35}
+\contentsline {subsection}{Anointed}{35}
+\contentsline {subsection}{Apotheosis}{35}
+\contentsline {subsection}{Reaper}{35}
+\contentsline {subsection}{Providence}{35}
+\contentsline {subsection}{Greater First Aid}{35}
+\contentsline {subsection}{Divine Invincibility}{36}
+\contentsline {subsection}{Martyr}{36}
+\contentsline {subsection}{Divine Armor}{36}
+\contentsline {subsection}{Greater Empower}{36}
+\contentsline {subsection}{Multiclass Dabbler}{36}
+\contentsline {section}{Cleric Spells}{37}
+\contentsline {subsection}{Rotes}{37}
+\contentsline {chapter}{\numberline {7}The Druid}{41}
+\contentsline {section}{Names}{41}
+\contentsline {section}{Look}{41}
+\contentsline {section}{Stats}{41}
+\contentsline {section}{Starting Moves}{41}
+\contentsline {subsection}{Elf}{41}
+\contentsline {subsection}{Human}{41}
+\contentsline {subsection}{Halfling}{41}
+\contentsline {subsection}{Born of the Soil}{41}
+\contentsline {subsection}{By Nature Sustained}{42}
+\contentsline {subsection}{Spirit Tongue}{42}
+\contentsline {subsection}{Shapeshifter}{42}
+\contentsline {subsection}{Studied Essence}{42}
+\contentsline {section}{Alignment}{42}
+\contentsline {subsection}{Chaotic}{42}
+\contentsline {subsection}{Good}{42}
+\contentsline {subsection}{Neutral}{42}
+\contentsline {section}{Gear}{42}
+\contentsline {section}{Bonds}{42}
+\contentsline {section}{Advanced Moves}{43}
+\contentsline {subsection}{Hunter's Brother}{43}
+\contentsline {subsection}{Red of Tooth and Claw}{43}
+\contentsline {subsection}{Communion of Whispers}{43}
+\contentsline {subsection}{Barkskin}{43}
+\contentsline {subsection}{Eyes of the Tiger}{43}
+\contentsline {subsection}{Shed}{43}
+\contentsline {subsection}{Thing-Talker}{43}
+\contentsline {subsection}{Formcrafter}{43}
+\contentsline {subsection}{Elemental Mastery}{43}
+\contentsline {subsection}{Balance}{43}
+\contentsline {subsection}{Embracing No Form}{43}
+\contentsline {subsection}{Doppelg\~A¤nger's Dance}{43}
+\contentsline {subsection}{Blood and Thunder}{43}
+\contentsline {subsection}{The Druid Sleep}{44}
+\contentsline {subsection}{World-Talker}{44}
+\contentsline {subsection}{Stalker's Sister}{44}
+\contentsline {subsection}{Formshaper}{44}
+\contentsline {subsection}{Chimera}{44}
+\contentsline {subsection}{Weather Weaver}{44}
+\contentsline {chapter}{\numberline {8}The Fighter}{45}
+\contentsline {section}{Names}{45}
+\contentsline {section}{Look}{45}
+\contentsline {section}{Stats}{45}
+\contentsline {section}{Starting Moves}{45}
+\contentsline {subsection}{Dwarf}{45}
+\contentsline {subsection}{Elf}{45}
+\contentsline {subsection}{Halfling}{45}
+\contentsline {subsection}{Human}{45}
+\contentsline {subsection}{Bend Bars, Lift Gates}{45}
+\contentsline {subsection}{Armored}{46}
+\contentsline {subsection}{Signature Weapon}{46}
+\contentsline {section}{Alignment}{46}
+\contentsline {subsection}{Good}{46}
+\contentsline {subsection}{Neutral}{46}
+\contentsline {subsection}{Evil}{46}
+\contentsline {section}{Gear}{46}
+\contentsline {section}{Bonds}{47}
+\contentsline {section}{Advanced Moves}{47}
+\contentsline {subsection}{Merciless}{47}
+\contentsline {subsection}{Heirloom}{47}
+\contentsline {subsection}{Armor Mastery}{47}
+\contentsline {subsection}{Improved Weapon}{47}
+\contentsline {subsection}{Seeing Red}{47}
+\contentsline {subsection}{Interrogator}{47}
+\contentsline {subsection}{Scent of Blood}{47}
+\contentsline {subsection}{Multiclass Dabbler}{47}
+\contentsline {subsection}{Iron Hide}{47}
+\contentsline {subsection}{Blacksmith}{47}
+\contentsline {subsection}{Bloodthirsty}{47}
+\contentsline {subsection}{Armored Perfection}{47}
+\contentsline {subsection}{Evil Eye}{48}
+\contentsline {subsection}{Taste of Blood}{48}
+\contentsline {subsection}{Multiclass Initiate}{48}
+\contentsline {subsection}{Steel Hide}{48}
+\contentsline {subsection}{Through Death's Eyes}{48}
+\contentsline {subsection}{Eye for Weaponry}{48}
+\contentsline {subsection}{Superior Warrior}{48}
+\contentsline {chapter}{\numberline {9}The Paladin}{49}
+\contentsline {section}{Names}{49}
+\contentsline {section}{Look}{49}
+\contentsline {section}{Stats}{49}
+\contentsline {section}{Starting Moves}{49}
+\contentsline {subsection}{Human}{49}
+\contentsline {subsection}{Lay on Hands (Cha)}{49}
+\contentsline {subsection}{Armored}{49}
+\contentsline {subsection}{I Am the Law}{49}
+\contentsline {subsection}{Quest}{49}
+\contentsline {section}{Alignment}{50}
+\contentsline {subsection}{Lawful}{50}
+\contentsline {subsection}{Good}{50}
+\contentsline {section}{Gear}{50}
+\contentsline {section}{Bonds}{50}
+\contentsline {section}{Advanced Moves}{50}
+\contentsline {subsection}{Divine Favor}{50}
+\contentsline {subsection}{Bloody Aegis}{50}
+\contentsline {subsection}{Smite}{50}
+\contentsline {subsection}{Exterminatus}{51}
+\contentsline {subsection}{Charge!}{51}
+\contentsline {subsection}{Staunch Defender}{51}
+\contentsline {subsection}{Setup Strike}{51}
+\contentsline {subsection}{Holy Protection}{51}
+\contentsline {subsection}{Voice of Authority}{51}
+\contentsline {subsection}{Hospitaller}{51}
+\contentsline {subsection}{Evidence of Faith}{51}
+\contentsline {subsection}{Holy Smite}{51}
+\contentsline {subsection}{Ever Onward}{51}
+\contentsline {subsection}{Impervious Defender}{51}
+\contentsline {subsection}{Tandem Strike}{51}
+\contentsline {subsection}{Divine Protection}{51}
+\contentsline {subsection}{Divine Authority}{51}
+\contentsline {subsection}{Perfect Hospitaller}{51}
+\contentsline {subsection}{Indomitable}{51}
+\contentsline {subsection}{Perfect Knight}{51}
+\contentsline {chapter}{\numberline {10}The Ranger}{53}
+\contentsline {section}{Names}{53}
+\contentsline {section}{Look}{53}
+\contentsline {section}{Stats}{53}
+\contentsline {section}{Starting Moves}{53}
+\contentsline {subsection}{Elf}{53}
+\contentsline {subsection}{Human}{53}
+\contentsline {subsection}{Hunt and Track (Wis)}{53}
+\contentsline {subsection}{Called Shot}{53}
+\contentsline {subsection}{Animal Companion}{53}
+\contentsline {subsection}{Command}{54}
+\contentsline {section}{Alignment}{54}
+\contentsline {subsection}{Chaotic}{54}
+\contentsline {subsection}{Good}{54}
+\contentsline {subsection}{Neutral}{54}
+\contentsline {section}{Gear}{54}
+\contentsline {section}{Bonds}{54}
+\contentsline {section}{Advanced Moves}{54}
+\contentsline {subsection}{Half-Elven}{55}
+\contentsline {subsection}{Wild Empathy}{55}
+\contentsline {subsection}{Familiar Prey}{55}
+\contentsline {subsection}{Viper's Strike}{55}
+\contentsline {subsection}{Camouflage}{55}
+\contentsline {subsection}{Man's Best Friend}{55}
+\contentsline {subsection}{Blot Out the Sun}{55}
+\contentsline {subsection}{Well-Trained}{55}
+\contentsline {subsection}{God Amidst the Wastes}{55}
+\contentsline {subsection}{Follow Me}{55}
+\contentsline {subsection}{A Safe Place}{55}
+\contentsline {subsection}{Wild Speech}{55}
+\contentsline {subsection}{Hunter's Prey}{55}
+\contentsline {subsection}{Viper's Fangs}{55}
+\contentsline {subsection}{Smaug's Belly}{55}
+\contentsline {subsection}{Strider}{56}
+\contentsline {subsection}{A Safer Place}{56}
+\contentsline {subsection}{Observant}{56}
+\contentsline {subsection}{Special Trick}{56}
+\contentsline {subsection}{Unnatural Ally}{56}
+\contentsline {chapter}{\numberline {11}The Thief}{57}
+\contentsline {section}{Names}{57}
+\contentsline {section}{Look}{57}
+\contentsline {section}{Stats}{57}
+\contentsline {section}{Starting Moves}{57}
+\contentsline {subsection}{Halfling}{57}
+\contentsline {subsection}{Human}{57}
+\contentsline {subsection}{Trap Expert}{57}
+\contentsline {subsection}{Tricks of the Trade}{57}
+\contentsline {subsection}{Backstab}{57}
+\contentsline {subsection}{Flexible Morals}{58}
+\contentsline {subsection}{Poisoner}{58}
+\contentsline {section}{Alignment}{58}
+\contentsline {subsection}{Chaotic}{58}
+\contentsline {subsection}{Neutral}{58}
+\contentsline {subsection}{Evil}{58}
+\contentsline {section}{Gear}{58}
+\contentsline {section}{Bonds}{58}
+\contentsline {section}{Advanced Moves}{58}
+\contentsline {subsection}{Cheap Shot}{58}
+\contentsline {subsection}{Cautious}{58}
+\contentsline {subsection}{Wealth and Taste}{59}
+\contentsline {subsection}{Shoot First}{59}
+\contentsline {subsection}{Poison Master}{59}
+\contentsline {subsection}{Envenom}{59}
+\contentsline {subsection}{Brewer}{59}
+\contentsline {subsection}{Underdog}{59}
+\contentsline {subsection}{Connections}{59}
+\contentsline {subsection}{Dirty Fighter}{59}
+\contentsline {subsection}{Extremely Cautious}{59}
+\contentsline {subsection}{Alchemist}{59}
+\contentsline {subsection}{Serious Underdog}{59}
+\contentsline {subsection}{Evasion}{59}
+\contentsline {subsection}{Strong Arm, True Aim}{59}
+\contentsline {subsection}{Escape Route}{59}
+\contentsline {subsection}{Disguise}{60}
+\contentsline {subsection}{Heist}{60}
+\contentsline {chapter}{\numberline {12}The Wizard}{61}
+\contentsline {section}{Names}{61}
+\contentsline {section}{Look}{61}
+\contentsline {section}{Stats}{61}
+\contentsline {section}{Starting Moves}{61}
+\contentsline {subsection}{Elf}{61}
+\contentsline {subsection}{Human}{61}
+\contentsline {subsection}{Spellbook}{61}
+\contentsline {subsection}{Prepare Spells}{61}
+\contentsline {subsection}{Cast a Spell (Int)}{61}
+\contentsline {subsection}{Spell Defense}{62}
+\contentsline {subsection}{Ritual}{62}
+\contentsline {section}{Alignment}{62}
+\contentsline {subsection}{Good}{62}
+\contentsline {subsection}{Neutral}{62}
+\contentsline {subsection}{Evil}{62}
+\contentsline {section}{Gear}{62}
+\contentsline {section}{Bonds}{62}
+\contentsline {section}{Advanced Moves}{62}
+\contentsline {subsection}{Prodigy}{62}
+\contentsline {subsection}{Empowered Magic}{63}
+\contentsline {subsection}{Fount of Knowledge}{63}
+\contentsline {subsection}{Know-It-All}{63}
+\contentsline {subsection}{Expanded Spellbook}{63}
+\contentsline {subsection}{Enchanter}{63}
+\contentsline {subsection}{Logical}{63}
+\contentsline {subsection}{Arcane Ward}{63}
+\contentsline {subsection}{Counterspell}{63}
+\contentsline {subsection}{Quick Study}{63}
+\contentsline {subsection}{Master}{63}
+\contentsline {subsection}{Greater Empowered Magic}{63}
+\contentsline {subsection}{Enchanter's Soul}{63}
+\contentsline {subsection}{Highly Logical}{63}
+\contentsline {subsection}{Arcane Armor}{63}
+\contentsline {subsection}{Protective Counter}{64}
+\contentsline {subsection}{Ethereal Tether}{64}
+\contentsline {subsection}{Mystical Puppet Strings}{64}
+\contentsline {subsection}{Spell Augmentation}{64}
+\contentsline {subsection}{Self-Powered}{64}
+\contentsline {section}{Wizard Spells}{65}
+\contentsline {subsection}{Cantrips}{65}
+\contentsline {chapter}{\numberline {13}The GM}{69}
+\contentsline {subsection}{GMing Dungeon World: A Framework}{69}
+\contentsline {section}{How to GM}{69}
+\contentsline {section}{Agenda}{70}
+\contentsline {section}{Principles}{70}
+\contentsline {subsubsection}{Draw maps, leave blanks}{70}
+\contentsline {subsubsection}{Address the characters, not the players}{70}
+\contentsline {subsubsection}{Embrace the fantastic}{71}
+\contentsline {subsubsection}{Make a move that follows}{71}
+\contentsline {subsubsection}{Never speak the name of your move}{71}
+\contentsline {subsubsection}{Give every monster life}{71}
+\contentsline {subsubsection}{Name every person}{71}
+\contentsline {subsubsection}{Ask questions and use the answers}{71}
+\contentsline {subsubsection}{Be a fan of the characters}{71}
+\contentsline {subsubsection}{Think dangerous}{71}
+\contentsline {subsubsection}{Begin and end with the fiction}{71}
+\contentsline {subsubsection}{Think offscreen too}{72}
+\contentsline {section}{Moves}{72}
+\contentsline {subsection}{When to Make a Move}{72}
+\contentsline {subsection}{Choosing a Move}{72}
+\contentsline {subsection}{Making your Move}{73}
+\contentsline {subsubsection}{Use a monster, danger, or location move}{73}
+\contentsline {subsubsection}{Reveal an unwelcome truth}{73}
+\contentsline {subsubsection}{Show signs of an approaching threat}{73}
+\contentsline {subsubsection}{Deal damage}{73}
+\contentsline {subsubsection}{Use up their resources}{73}
+\contentsline {subsubsection}{Turn Their Move Back On Them}{73}
+\contentsline {subsubsection}{Separate Them}{73}
+\contentsline {subsubsection}{Give an opportunity that fits a class' abilities}{73}
+\contentsline {subsubsection}{Show a downside to their class, race, or equipment}{74}
+\contentsline {subsubsection}{Offer an opportunity, with or without cost}{74}
+\contentsline {subsubsection}{Put someone in a spot}{74}
+\contentsline {subsubsection}{Tell them the requirements or consequences and ask}{74}
+\contentsline {section}{Dungeon Moves}{74}
+\contentsline {subsubsection}{Change the environment}{74}
+\contentsline {subsubsection}{Point to a looming threat}{74}
+\contentsline {subsubsection}{Introduce a new faction or type of creature}{74}
+\contentsline {subsubsection}{Use a threat from an existing faction or type of creature}{75}
+\contentsline {subsubsection}{Make them backtrack}{75}
+\contentsline {subsubsection}{Present riches at a price}{75}
+\contentsline {subsubsection}{Present a challenge to one of the characters}{75}
+\contentsline {section}{Dealing With Common Situations}{75}
+\contentsline {subsubsection}{Fights}{75}
+\contentsline {subsubsection}{Traps}{76}
+\contentsline {subsubsection}{People}{76}
+\contentsline {chapter}{\numberline {14}First Session}{77}
+\contentsline {section}{Prep}{77}
+\contentsline {subsection}{Getting Started}{77}
+\contentsline {subsection}{The First Adventure}{78}
+\contentsline {subsubsection}{Establish details, describe}{78}
+\contentsline {subsubsection}{Use what they give you}{79}
+\contentsline {subsubsection}{Ask questions}{79}
+\contentsline {subsubsection}{Leave blanks}{79}
+\contentsline {subsubsection}{Look for interesting facts}{79}
+\contentsline {subsubsection}{Help the players understand the moves}{79}
+\contentsline {subsubsection}{Give each character a chance to shine}{79}
+\contentsline {subsubsection}{Introduce NPCs}{79}
+\contentsline {section}{After the First Session}{79}
+\contentsline {chapter}{\numberline {15}Fronts}{81}
+\contentsline {subsection}{When to Make Fronts}{81}
+\contentsline {subsection}{Campaign and Adventure Fronts}{81}
+\contentsline {section}{Creating Fronts}{81}
+\contentsline {section}{Creating Dangers}{82}
+\contentsline {section}{Types of Dangers}{83}
+\contentsline {subsection}{Ambitious Organizations}{83}
+\contentsline {subsubsection}{GM Moves for Ambitious Organizations}{83}
+\contentsline {subsection}{Planar Forces}{83}
+\contentsline {subsubsection}{GM Moves for Planar Forces}{83}
+\contentsline {subsection}{Arcane Enemies}{83}
+\contentsline {subsubsection}{GM Moves for Arcane Enemies}{84}
+\contentsline {subsection}{Hordes}{84}
+\contentsline {subsubsection}{GM Moves for Hordes}{84}
+\contentsline {subsection}{Cursed Places}{84}
+\contentsline {subsubsection}{GM Moves for Cursed Places}{84}
+\contentsline {subsection}{Description and Cast}{84}
+\contentsline {subsection}{Custom Moves}{85}
+\contentsline {subsection}{Grim Portents}{85}
+\contentsline {subsection}{Impending Doom}{85}
+\contentsline {subsection}{Stakes}{86}
+\contentsline {section}{Resolving a Front}{86}
+\contentsline {section}{Multiple Adventure Fronts}{87}
+\contentsline {section}{An Example Front: The Opening of the White Gate}{87}
+\contentsline {section}{Dangers}{87}
+\contentsline {subsection}{The College of Arcanists (Cabal)}{87}
+\contentsline {subsubsection}{Grim Portents}{87}
+\contentsline {subsection}{The White Gate (Dark Portal)}{87}
+\contentsline {subsubsection}{Grim Portents}{87}
+\contentsline {subsection}{The Argent Seraphim (Choir of Angels)}{87}
+\contentsline {subsubsection}{Grim Portents}{87}
+\contentsline {section}{Description and Cast}{88}
+\contentsline {section}{Custom Moves}{88}
+\contentsline {section}{Stakes}{88}
+\contentsline {chapter}{\numberline {16}The world}{89}
+\contentsline {subsection}{Steadings}{89}
+\contentsline {section}{Creating the world}{89}
+\contentsline {section}{While You're In Town \dots }{89}
+\contentsline {section}{Elements of a Steading}{90}
+\contentsline {subsection}{Adding Steadings}{90}
+\contentsline {subsection}{Steading Tags}{91}
+\contentsline {subsubsection}{Prosperity}{91}
+\contentsline {subsubsection}{Population}{91}
+\contentsline {subsubsection}{Defenses}{91}
+\contentsline {subsubsection}{Other Tags}{91}
+\contentsline {subsection}{Steading Names}{92}
+\contentsline {section}{Making a Village}{92}
+\contentsline {section}{Making a Town}{92}
+\contentsline {section}{Making a Keep}{93}
+\contentsline {section}{Making a City}{93}
+\contentsline {section}{Fronts on the Campaign Map}{94}
+\contentsline {section}{Updating the Campaign Map}{94}
+\contentsline {subsubsection}{Growth}{94}
+\contentsline {subsubsection}{Collapse}{94}
+\contentsline {subsubsection}{Want}{94}
+\contentsline {subsubsection}{Trade}{94}
+\contentsline {subsubsection}{Capture}{94}
+\contentsline {subsubsection}{Profit}{94}
+\contentsline {subsubsection}{Surplus}{94}
+\contentsline {subsubsection}{Aid}{95}
+\contentsline {subsubsection}{Embattled}{95}
+\contentsline {subsubsection}{Opportunity}{95}
+\contentsline {subsubsection}{Clash}{95}
+\contentsline {subsection}{Other Updates}{95}
+\contentsline {chapter}{\numberline {17}Monsters}{97}
+\contentsline {section}{Using Monsters}{97}
+\contentsline {section}{Elements of a Monster}{97}
+\contentsline {subsection}{Monsters Without Stats}{98}
+\contentsline {section}{Monster Tags}{98}
+\contentsline {subsection}{Organization Tags}{98}
+\contentsline {subsection}{Size Tags}{98}
+\contentsline {section}{Making Monsters}{98}
+\contentsline {subsubsection}{What is it known to do?}{99}
+\contentsline {subsubsection}{What does it want that causes problems for others?}{99}
+\contentsline {subsubsection}{How does it usually hunt or fight?}{99}
+\contentsline {subsubsection}{How big is it?}{99}
+\contentsline {subsubsection}{What is its most important defense?}{99}
+\contentsline {subsubsection}{What is it known for? (Choose all that apply)}{99}
+\contentsline {subsubsection}{What is its most common form of attack?}{99}
+\contentsline {subsubsection}{Which of these describe it? (Choose all that apply)}{100}
+\contentsline {section}{Treasure}{100}
+\contentsline {section}{Monster Settings}{101}
+\contentsline {subsection}{Cavern Dwellers}{101}
+\contentsline {subsection}{Denizens of the Swamp}{101}
+\contentsline {subsection}{Legions of the Undead}{101}
+\contentsline {subsection}{The Dark Woods}{101}
+\contentsline {subsection}{Ravenous Hordes}{101}
+\contentsline {subsection}{Twisted Experiments}{102}
+\contentsline {subsection}{The Lower Depths}{102}
+\contentsline {subsection}{Planar Powers}{102}
+\contentsline {section}{Cavern Dwellers}{103}
+\contentsline {section}{Swamp Denizens}{108}
+\contentsline {section}{Undead Legions}{113}
+\contentsline {section}{Dark Woods}{117}
+\contentsline {section}{Ravenous Hordes}{122}
+\contentsline {section}{Twisted Experiments}{127}
+\contentsline {section}{Lower Depths}{131}
+\contentsline {section}{Planar Powers}{134}
+\contentsline {section}{Folk of the Realm}{138}
+\contentsline {chapter}{\numberline {18}Equipment}{143}
+\contentsline {subsection}{General Equipment Tags}{143}
+\contentsline {section}{Weapons}{143}
+\contentsline {subsection}{Weapon Tags}{143}
+\contentsline {subsection}{Weapon List}{144}
+\contentsline {section}{Armor}{144}
+\contentsline {subsection}{Armor Tags}{144}
+\contentsline {subsection}{Armor List}{144}
+\contentsline {section}{Dungeon Gear}{144}
+\contentsline {section}{Poisons}{145}
+\contentsline {section}{Services}{145}
+\contentsline {section}{Meals}{145}
+\contentsline {section}{Transport}{145}
+\contentsline {section}{Land and Buildings}{145}
+\contentsline {section}{Bribes}{146}
+\contentsline {section}{Gifts and Finery}{146}
+\contentsline {section}{Hoards}{146}
+\contentsline {section}{Magic Items}{146}
+\contentsline {chapter}{\numberline {19}Advanced Delving}{151}
+\contentsline {section}{Making Moves}{151}
+\contentsline {subsection}{Getting Started}{151}
+\contentsline {subsection}{Types of Moves}{151}
+\contentsline {subsection}{World Moves}{152}
+\contentsline {subsection}{Class Moves}{152}
+\contentsline {section}{New Classes}{152}
+\contentsline {subsection}{Compendium Classes}{153}
+\contentsline {subsection}{Divine Bond}{154}
+\contentsline {section}{Adventure Moves}{154}
+\contentsline {subsection}{Move Structure}{154}
+\contentsline {subsection}{Triggers}{155}
+\contentsline {subsection}{Effect}{155}
+\contentsline {section}{Changing the Basics}{155}
+\contentsline {section}{Development of a Move}{156}
+\contentsline {section}{The GM}{157}
+\contentsline {section}{Monsters}{158}
+\contentsline {subsubsection}{The monster is Evil through and through. Choose one to reflect why it's evil:}{158}
+\contentsline {section}{Teaching the Game}{159}
+\contentsline {section}{Pitch It}{159}
+\contentsline {section}{Present the Classes}{159}
+\contentsline {section}{Create Characters}{159}
+\contentsline {subsection}{Start Play}{160}
+\contentsline {subsection}{Continuing Play}{160}
+\contentsline {section}{Adventure Conversion}{161}
+\contentsline {section}{Overview}{161}
+\contentsline {section}{Fronts}{161}
+\contentsline {section}{Monsters}{162}
+\contentsline {subsection}{Direct Conversion}{162}
+\contentsline {section}{Maps}{162}
+\contentsline {section}{Magic \& Treasure}{163}
+\contentsline {section}{Introductory Moves}{163}
+\contentsline {section}{Instant NPCs}{165}
+\contentsline {section}{100 Instincts}{165}
+\contentsline {section}{100 Knacks}{166}
+\contentsline {section}{Names}{168}
