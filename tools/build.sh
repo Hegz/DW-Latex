@@ -1,2 +1,2 @@
 #!/bin/bash
-texi2pdf --clean $1
+texi2pdf --tidy $1

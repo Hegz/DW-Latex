@@ -2,7 +2,7 @@
 \usepackage[letterpaper]{geometry}
 \usepackage[cm]{fullpage}
 \usepackage{tabu}
-\setcounter{secnumdepth}{1}
+\setcounter{secnumdepth}{0}
 \setcounter{tocdepth}{1}
 \usepackage{indentfirst}
 \usepackage{hyphenat}
@@ -21,6 +21,10 @@
 
 \newcommand{\monster}[2]{\vspace{\baselineskip}\noindent\begin{tabu}{@{}p{0.29\textwidth}@{} p{0.20\textwidth}@{}}
 {\Large \bfseries #1} & \nohyphens{\emph{#2}} \\
+\end{tabu}}
+
+\newcommand{\equipment}[2]{\vspace{\baselineskip}\noindent\begin{tabu}{@{}p{0.29\textwidth}@{} p{0.20\textwidth}@{}}
+{\bfseries #1} & \nohyphens{\emph{#2}} \\
 \end{tabu}}
 
 \title{Dungeon World}
@@ -64,11 +68,11 @@
 \include{Equipment}
 \include{Advanced_Delving}
 \chapter{Appendices}
-\include{appendices/Thanks}
+%\include{appendices/Thanks}
 \include{appendices/Teaching}
 \include{appendices/Conversion}
 \include{appendices/NPCs}
 \clearpage
-\addcontentsline{toc}{section}{Index}
+\chapter{Index}
 \printindex
 \end{document}
