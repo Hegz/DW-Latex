@@ -1,4 +1,4 @@
-\documentclass[11pt,twoside,twocolumn]{scrbook}
+\documentclass[11pt,twoside,twocolumn,openany]{memoir}
 \usepackage[letterpaper]{geometry}
 \usepackage[cm]{fullpage}
 \usepackage{tabu}
@@ -27,6 +27,7 @@
 \author{Sage LaTorra and Adam Koebel}
 \date{}
 
+\chapterstyle{section}
 \begin{document}
 \maketitle
 \tableofcontents
@@ -69,7 +70,5 @@
 \include{appendices/Conversion}
 \include{appendices/NPCs}
 \include{index}
-\clearpage
-\chapter{Index}
 \printindex
 \end{document}
